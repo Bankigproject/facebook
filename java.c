@@ -1,0 +1,3 @@
+printf
+va_end
+locking
